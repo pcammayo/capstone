@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+  font-family: 'Lato', "Arial", sans-serif;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+  color: #154c79;
+}
+
+h2 {
+  color: #79154c;
+}
+
+h3 {
+  text-align: center;
+  color: #4c7915;
+}
+
+.jH {
+  text-align: left;
+}
